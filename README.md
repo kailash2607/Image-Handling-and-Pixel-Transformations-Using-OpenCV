@@ -1,7 +1,7 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-## Name : DEVESH S
-## Reg No : 212223230041
-## Date : 28/08/25
+## Name : KAILASH PRABHU S
+## Reg No : 212224240068
+## Date : 31/01/25
 
 
 ## AIM:
@@ -253,7 +253,7 @@ plt.show()
 
 
   
- <img width="502" height="523" alt="image" src="https://github.com/user-attachments/assets/666ae21b-f9e0-4918-9022-8eb87b2d845a" />
+ <img width="371" height="521" alt="image" src="https://github.com/user-attachments/assets/1a2eb1ad-5b99-4bc4-b60f-91fa4b7a64f1" />
 
 
 
@@ -266,8 +266,7 @@ plt.show()
 
 
 
-  <img width="713" height="542" alt="image" src="https://github.com/user-attachments/assets/7db812e2-7496-4812-8c0a-760ee5536ed6" />
-
+ <img width="506" height="505" alt="image" src="https://github.com/user-attachments/assets/b22c8d13-9503-48c7-bf75-649170f25dce" />
 
 
 
@@ -279,7 +278,7 @@ plt.show()
 
 
 
-<img width="896" height="371" alt="image" src="https://github.com/user-attachments/assets/dddadf1c-419d-4274-ab29-8944d0ffda0a" />
+<img width="733" height="536" alt="image" src="https://github.com/user-attachments/assets/2839e09f-93f0-420d-98c7-cb9076c75cd2" />
 
 
 
@@ -295,7 +294,8 @@ plt.show()
 
 
 
-![image](https://github.com/user-attachments/assets/f34966ee-21f9-4441-bdd4-36c3da71b89d)
+<img width="882" height="373" alt="image" src="https://github.com/user-attachments/assets/cb5e6aa9-968f-47e0-b723-cc1bc7a334ab" />
+
 
 
 
@@ -304,7 +304,10 @@ plt.show()
 
 1.Modify contrast using scaling factors 1.1 and 1.2
 
+
  
+<img width="891" height="377" alt="image" src="https://github.com/user-attachments/assets/eb6b4371-bffc-463b-ac8d-822041d16589" />
+
 
  
 
@@ -316,7 +319,8 @@ plt.show()
 
 
 
-![image](https://github.com/user-attachments/assets/54d59ef6-9800-4ff4-af13-f15fd602d334)
+<img width="873" height="386" alt="image" src="https://github.com/user-attachments/assets/9850bf67-aed9-469f-a546-1cfddd057ef2" />
+
 
 
 
@@ -325,7 +329,8 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082425](https://github.com/user-attachments/assets/6db4d2a2-8b21-43e5-976a-8f199eebc8cc)
+<img width="431" height="530" alt="image" src="https://github.com/user-attachments/assets/7c183f20-ba3c-414d-95ae-6d70f84eede6" />
+
 
 
 
@@ -337,7 +342,7 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082414](https://github.com/user-attachments/assets/e5a79c38-d998-4ced-82d2-d750d465572d)
+<img width="887" height="377" alt="image" src="https://github.com/user-attachments/assets/83e04bbf-52ad-4422-87e8-cca6ce2efd9f" />
 
 
 
@@ -347,7 +352,8 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082402](https://github.com/user-attachments/assets/2e2034ed-8cc3-4855-a8cb-87632e161c80)
+<img width="732" height="526" alt="image" src="https://github.com/user-attachments/assets/0ecd077f-ff3d-4acd-961f-76fed488ea50" />
+
 
 
 
